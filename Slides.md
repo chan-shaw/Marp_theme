@@ -2,9 +2,9 @@
 marp: true
 theme: gaia
 paginate: true
-footer: 'Designed by Marcus 2020-12-01'
-style: | 
-  section footer{color:black;font-size: 20px;} 
+footer: 'by chanshaw 2023-08-08'
+style: |
+  section footer{color:black;font-size: 20px;}
 
 
 ---
@@ -14,11 +14,11 @@ section {
   background-image:url('./fm.png');
   background-size:cover
 }
-footer{color:black;font-size: 20px;} 
+footer{color:black;font-size: 20px;}
 </style>
 <!-- _class: lead gaia -->
 
-# Marp for THU slides
+# Marp Slides
 
 ---
 <style >
